@@ -1,0 +1,61 @@
+{
+  "questions": [
+    {
+      "Id": 1,
+      "Question": "Are you a BOY or GIRL?",
+      "Answers": ["Boy","Girl"],
+      "Adjectives": ["messy","loud","stinky","pretty","kind","smart"]
+    },
+    {
+      "Id": 2,
+      "Question": "What is your favorite COLOR?",
+      "Answers": ["Red","Yellow","Orange","Black","Blue","Green","Indigo","Gold","Silver","Purple","Light Green","Pink","Turquoise","Something Else"],
+      "Adjectives": ["durable","suspicious","friendly","adventurous","useful","refreshing","quiet","happy","easy going","interesting","entertaining","sweet","Creepy","hot tempered","busy","solid","cranky","wimpy","bossy","flexible","respectful","wonderful","crabby","talkative","humble","strong","crusty","roaring"]
+    },
+    {
+      "Id": 3,
+      "Question": "How many SIBLINGS do you have?",
+      "Answers": ["Only Child","1","2","3","4+"],
+      "Adjectives": ["destructive","average","independent","terrible","incredible","wise","clumsy","smelly","fun","wistful","jumpy","popular","bright eyed","new","simple"]
+    },
+    {
+      "Id": 4,
+      "Question": "What COLOR is your hair?",
+      "Answers": ["Brown","Black","Blonde","Red","Something Else"],
+      "Adjectives": ["noisy","organized","pushy","crazy","smiley","justified","photogenic","awesome","loving","open","moldy","quick","boring","pesky","quacky"]
+    },
+    {
+      "Id": 5,
+      "Question": "What is your favorite ANIMAL?",
+      "Answers": ["Bunny Rabbit","Cat","Dog","Horse","Something Else"],
+      "Adjectives": ["simple","lovely","nervous","young","bashful","smooth","hairy","athletic","trustworthy","sad"]
+    },
+    {
+      "Id": 6,
+      "Question": "Are you SMART or SILLY?",
+      "Answers": ["Smart","Silly"],
+      "Adjectives": ["curious","horrible","funny","outrageous","lonely","mean"]
+    },
+    {
+      "Id": 7,
+      "Question": "Are you BIG or SMALL?",
+      "Answers": ["Big","Small"],
+      "Adjectives": ["amazing","intelligent","determined","horsey","generous","fancy"]
+    },
+    {
+      "Id": 8,
+      "Question": "What is your favorite SHAPE?",
+      "Answers": ["Star","Diamond","Circle","Square","Something Else"],
+      "Adjectives": ["rumpled","wishful","fluffy","mature","speedy","tasteful","lame","adorable","fabulous","romantic"]
+    }
+  ],
+  "art": [
+      "https://cdn.hyperdev.com/us-east-1%3Ac1f7cb4e-41cd-4609-8274-9d258a613e87%2FArt1.png",
+      "https://cdn.hyperdev.com/us-east-1%3Ac1f7cb4e-41cd-4609-8274-9d258a613e87%2FArt2.png",
+      "https://cdn.hyperdev.com/us-east-1%3Ac1f7cb4e-41cd-4609-8274-9d258a613e87%2FArt3.png",
+      "https://cdn.hyperdev.com/us-east-1%3Ac1f7cb4e-41cd-4609-8274-9d258a613e87%2FArt5.png",
+      "https://cdn.hyperdev.com/us-east-1%3Ac1f7cb4e-41cd-4609-8274-9d258a613e87%2FArt6.png",
+      "https://cdn.hyperdev.com/us-east-1%3Ac1f7cb4e-41cd-4609-8274-9d258a613e87%2FArt7.png"
+    ]
+}
+

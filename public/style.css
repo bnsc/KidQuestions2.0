@@ -1,0 +1,77 @@
+/* latin */
+@font-face {
+  font-family: 'Aclonica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aclonica'), local('Aclonica-Regular'), url(https://fonts.gstatic.com/s/aclonica/v6/KL5OjqZGxkpCc9qpqsIjA3YhjbSpvc47ee6xR_80Hnw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+body {
+  background-color: #AFEAAA;
+}
+
+body > .panel {
+  max-width: 500px;
+  margin: auto auto;
+  margin-top: 25px;
+}
+
+.panel-body {
+  min-height: 300px;
+}
+
+#buttons .row {
+  margin-bottom: 15px;
+}
+
+#question {
+  padding: 15px;
+}
+
+#statement {
+  padding-top: 50px;
+  min-height: 200px;
+}
+
+/* google font */
+h1 {
+	font-family: Aclonica;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Aclonica;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Aclonica;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Aclonica;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Aclonica;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
